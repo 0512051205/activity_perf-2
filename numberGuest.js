@@ -15,5 +15,4 @@ while (guess !== correctNumber) {
 }
 
 console.log("Correct!");
-Sent
-Write to Lovely Sinin
+
